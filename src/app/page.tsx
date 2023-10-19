@@ -7,7 +7,7 @@ export default function Home() {
     <main className="bg-zinc-100">
       <Navbar />
       <Search />
-      <Forecast />
+      {/* <Forecast /> */}
     </main>
   )
 }
